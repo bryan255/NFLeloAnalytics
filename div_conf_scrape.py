@@ -1,3 +1,7 @@
+### this script web scape through seasons 1970 - 2022 and return the teams, divisions, and conferences
+### the script is checked against the Elo csv (line ~45)
+### team_reference list can be updated to include other teams where pro-football-references != Elo file
+
 import time
 import requests
 import pandas as pd
@@ -26,15 +30,13 @@ def clean_df(df):
     df['team'] = df['team'].str.upper()
     return df
 
-# initialize DF for division/conference information
-div_df = pd.DataFrame(columns=['season','conference','division','team'])
-
-# loop through each season to add to dataframe
+# loop through each season to create a list of each team & season div/conf
+# add the list to a DF
 # pro-football-reference allows 20 requests/minute
 # adding one second buffer to time.sleep()
-for year in season_list:
-    div_df = pd.concat([div_df,pd.DataFrame(teams(year),columns=['season','conference','division','team'])], axis=0, ignore_index=True)
-    time.sleep(4)
+data = [teams(year) for year in season_list if time.sleep(3.5) == None]
+data2 = [data[i][j] for i in range(len(data)) for j in range(len(data[i]))]
+div_df = pd.DataFrame(data2, columns=['season','conference','division','team'])
 
 div_df = clean_df(div_df)
 
@@ -52,8 +54,6 @@ def clean_elo(df):
     return df.copy()
 
 elo_name_index = clean_elo(elo)
-
-elo_name_index.head()
 
 # list of team names that don't match pro-football-reference and elo
 team_reference = [['CRD','ARI'],
@@ -78,4 +78,5 @@ team_fix = pd.DataFrame(team_reference,columns=['pfr name','matching elo name'])
 div_df = div_df.merge(team_fix, how='left', left_on='team', right_on='pfr name')
 div_df['team name'] = np.where(pd.isna(div_df['matching elo name']),div_df['team'],div_df['matching elo name'])
 div_df.drop(['team','pfr name','matching elo name'],axis=1,inplace=True)
-div_df.head()
+
+print(f'First five rows:\n{div_df.head()}\nLast five rows:\n{div_df.tail()}')
