@@ -39,6 +39,7 @@ for year in season_list:
 div_df = clean_df(div_df)
 
 # bring in elo DF to match issue team names
+### you will need to update the file path to whatever your path to the .csv is
 elo = pd.read_csv(r'C:\Users\bkors\OneDrive\Desktop\School\CS 620\Data Project\nfl_elo.csv')
 
 # clean the elo DF to get just team names
