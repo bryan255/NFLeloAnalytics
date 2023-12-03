@@ -1,321 +1,321 @@
-Teams,Year,Value,Wins
-Dallas Cowboys,2021,8000,12
-New England Patriots,2021,6400,3
-Los Angeles Rams,2021,6200,10
-New York Giants,2021,6000,16
-Chicago Bears,2021,5800,4
-Washington Commanders,2021,5600,6
-New York Jets,2021,5400,7
-San Francisco 49ers,2021,5200,4
-Las Vegas Raiders,2021,5100,12
-Philadelphia Eagles,2021,4900,10
-Houston Texans,2021,4700,9
-Denver Broncos,2021,4650,4
-Miami Dolphins,2021,4600,7
-Seattle Seahawks,2021,4500,9
-Green Bay Packers,2021,4250,7
-Atlanta Falcons,2021,4000,13
-Pittsburgh Steelers,2021,3975,7
-Minnesota Vikings,2021,3925,9
-Baltimore Ravens,2021,3900,8
-Los Angeles Chargers,2021,3875,8
-Cleveland Browns,2021,3850,9
-Indianapolis Colts,2021,3800,8
-Kansas City Chiefs,2021,3700,9
-Tampa Bay Buccaneers,2021,3675,14
-Carolina Panthers,2021,3600,14
-New Orleans Saints,2021,3575,5
-Tennessee Titans,2021,3500,9
-Jacksonville Jaguars,2021,3475,12
-Buffalo Bills,2021,3400,3
-Arizona Cardinals,2021,3270,12
-Detroit Lions,2021,3050,11
-Cincinnati Bengals,2021,3000,13
-Dallas Cowboys,2020,6500,6
-New England Patriots,2020,5000,5
-Los Angeles Rams,2020,4800,7
-New York Giants,2020,4850,11
-Chicago Bears,2020,4075,6
-Washington Commanders,2020,4200,8
-New York Jets,2020,4050,7
-San Francisco 49ers,2020,4175,2
-Las Vegas Raiders,2020,3415,6
-Philadelphia Eagles,2020,3800,8
-Houston Texans,2020,3700,4
-Denver Broncos,2020,3750,4
-Miami Dolphins,2020,3420,5
-Seattle Seahawks,2020,3500,10
-Green Bay Packers,2020,3475,12
-Atlanta Falcons,2020,3200,14
-Pittsburgh Steelers,2020,3430,4
-Minnesota Vikings,2020,3350,12
-Baltimore Ravens,2020,3400,7
-Los Angeles Chargers,2020,2920,12
-Cleveland Browns,2020,2600,7
-Indianapolis Colts,2020,3250,12
-Kansas City Chiefs,2020,2930,11
-Tampa Bay Buccaneers,2020,2940,16
-Carolina Panthers,2020,2910,15
-New Orleans Saints,2020,2825,5
-Tennessee Titans,2020,2625,13
-Jacksonville Jaguars,2020,2800,11
-Buffalo Bills,2020,2270,1
-Arizona Cardinals,2020,2650,15
-Detroit Lions,2020,2400,8
-Cincinnati Bengals,2020,2275,4
-Dallas Cowboys,2019,5700,8
-New England Patriots,2019,4400,3
-Los Angeles Rams,2019,4000,12
-New York Giants,2019,4300,9
-Chicago Bears,2019,3500,4
-Washington Commanders,2019,3500,8
-New York Jets,2019,3600,3
-San Francisco 49ers,2019,3800,7
-Las Vegas Raiders,2019,3100,15
-Philadelphia Eagles,2019,3400,7
-Houston Texans,2019,3300,9
-Denver Broncos,2019,3200,11
-Miami Dolphins,2019,2900,7
-Seattle Seahawks,2019,3100,5
-Green Bay Packers,2019,3100,12
-Atlanta Falcons,2019,2900,14
-Pittsburgh Steelers,2019,3000,7
-Minnesota Vikings,2019,3000,8
-Baltimore Ravens,2019,3000,11
-Los Angeles Chargers,2019,2600,14
-Cleveland Browns,2019,2400,5
-Indianapolis Colts,2019,2900,6
-Kansas City Chiefs,2019,2500,7
-Tampa Bay Buccaneers,2019,2300,15
-Carolina Panthers,2019,2600,7
-New Orleans Saints,2019,2500,5
-Tennessee Titans,2019,2300,13
-Jacksonville Jaguars,2019,2500,11
-Buffalo Bills,2019,2100,6
-Arizona Cardinals,2019,2300,10
-Detroit Lions,2019,2100,5
-Cincinnati Bengals,2019,2000,2
-Dallas Cowboys,2018,5500,11
-New England Patriots,2018,4100,6
-Los Angeles Rams,2018,3800,14
-New York Giants,2018,3900,15
-Chicago Bears,2018,3500,5
-Washington Commanders,2018,3400,12
-New York Jets,2018,3200,7
-San Francisco 49ers,2018,3500,4
-Las Vegas Raiders,2018,2900,4
-Philadelphia Eagles,2018,3100,4
-Houston Texans,2018,3100,10
-Denver Broncos,2018,3000,11
-Miami Dolphins,2018,2800,6
-Seattle Seahawks,2018,2800,7
-Green Bay Packers,2018,2900,10
-Atlanta Falcons,2018,2800,6
-Pittsburgh Steelers,2018,2800,7
-Minnesota Vikings,2018,2700,9
-Baltimore Ravens,2018,2800,8
-Los Angeles Chargers,2018,2500,10
-Cleveland Browns,2018,2200,13
-Indianapolis Colts,2018,2700,7
-Kansas City Chiefs,2018,2300,11
-Tampa Bay Buccaneers,2018,2200,13
-Carolina Panthers,2018,2400,5
-New Orleans Saints,2018,2300,7
-Tennessee Titans,2018,2200,14
-Jacksonville Jaguars,2018,2300,9
-Buffalo Bills,2018,1900,5
-Arizona Cardinals,2018,2300,6
-Detroit Lions,2018,2000,3
-Cincinnati Bengals,2018,2000,6
-Dallas Cowboys,2017,5000,9
-New England Patriots,2017,3800,9
-Los Angeles Rams,2017,3200,15
-New York Giants,2017,3300,11
-Chicago Bears,2017,2900,3
-Washington Commanders,2017,3100,5
-New York Jets,2017,2900,7
-San Francisco 49ers,2017,3100,5
-Las Vegas Raiders,2017,2400,6
-Philadelphia Eagles,2017,2800,6
-Houston Texans,2017,2800,16
-Denver Broncos,2017,2700,4
-Miami Dolphins,2017,2600,5
-Seattle Seahawks,2017,2600,6
-Green Bay Packers,2017,2600,9
-Atlanta Falcons,2017,2600,7
-Pittsburgh Steelers,2017,2600,11
-Minnesota Vikings,2017,2400,13
-Baltimore Ravens,2017,2600,14
-Los Angeles Chargers,2017,2300,9
-Cleveland Browns,2017,2000,9
-Indianapolis Colts,2017,2400,0
-Kansas City Chiefs,2017,2100,4
-Tampa Bay Buccaneers,2017,2000,10
-Carolina Panthers,2017,2300,5
-New Orleans Saints,2017,2100,11
-Tennessee Titans,2017,2100,12
-Jacksonville Jaguars,2017,2100,10
-Buffalo Bills,2017,1600,12
-Arizona Cardinals,2017,2200,9
-Detroit Lions,2017,1700,8
-Cincinnati Bengals,2017,1800,7
-Dallas Cowboys,2016,4800,13
-New England Patriots,2016,3700,9
-Los Angeles Rams,2016,3000,17
-New York Giants,2016,3300,4
-Chicago Bears,2016,2900,11
-Washington Commanders,2016,3100,3
-New York Jets,2016,2800,8
-San Francisco 49ers,2016,3100,5
-Las Vegas Raiders,2016,2400,2
-Philadelphia Eagles,2016,2700,12
-Houston Texans,2016,2800,7
-Denver Broncos,2016,2600,10
-Miami Dolphins,2016,2600,9
-Seattle Seahawks,2016,2400,10
-Green Bay Packers,2016,2600,11
-Atlanta Falcons,2016,2500,12
-Pittsburgh Steelers,2016,2500,13
-Minnesota Vikings,2016,2400,13
-Baltimore Ravens,2016,2500,8
-Los Angeles Chargers,2016,2300,8
-Cleveland Browns,2016,2000,5
-Indianapolis Colts,2016,2400,1
-Kansas City Chiefs,2016,2100,8
-Tampa Bay Buccaneers,2016,2000,12
-Carolina Panthers,2016,2300,9
-New Orleans Saints,2016,2000,6
-Tennessee Titans,2016,2100,7
-Jacksonville Jaguars,2016,2100,9
-Buffalo Bills,2016,1600,3
-Arizona Cardinals,2016,2200,7
-Detroit Lions,2016,1700,7
-Cincinnati Bengals,2016,1800,6
-Dallas Cowboys,2015,4200,4
-New England Patriots,2015,3400,7
-Los Angeles Rams,2015,2900,13
-New York Giants,2015,3100,7
-Chicago Bears,2015,2700,6
-Washington Commanders,2015,3000,6
-New York Jets,2015,2800,9
-San Francisco 49ers,2015,3000,10
-Las Vegas Raiders,2015,2100,5
-Philadelphia Eagles,2015,2500,7
-Houston Texans,2015,2600,7
-Denver Broncos,2015,2400,9
-Miami Dolphins,2015,2400,15
-Seattle Seahawks,2015,2200,6
-Green Bay Packers,2015,2400,11
-Atlanta Falcons,2015,2100,11
-Pittsburgh Steelers,2015,2300,8
-Minnesota Vikings,2015,2200,11
-Baltimore Ravens,2015,2300,11
-Los Angeles Chargers,2015,2100,5
-Cleveland Browns,2015,1900,4
-Indianapolis Colts,2015,2200,3
-Kansas City Chiefs,2015,1900,8
-Tampa Bay Buccaneers,2015,1800,12
-Carolina Panthers,2015,2100,6
-New Orleans Saints,2015,1800,17
-Tennessee Titans,2015,2000,7
-Jacksonville Jaguars,2015,2000,3
-Buffalo Bills,2015,1500,5
-Arizona Cardinals,2015,2000,8
-Detroit Lions,2015,1700,14
-Cincinnati Bengals,2015,1700,12
-Dallas Cowboys,2014,4000,13
-New England Patriots,2014,3200,11
-Los Angeles Rams,2014,1500,15
-New York Giants,2014,2800,6
-Chicago Bears,2014,2500,6
-Washington Commanders,2014,2900,5
-New York Jets,2014,2600,4
-San Francisco 49ers,2014,2700,4
-Las Vegas Raiders,2014,1400,8
-Philadelphia Eagles,2014,2400,3
-Houston Texans,2014,2500,10
-Denver Broncos,2014,1900,9
-Miami Dolphins,2014,1900,12
-Seattle Seahawks,2014,1900,8
-Green Bay Packers,2014,2000,14
-Atlanta Falcons,2014,1700,13
-Pittsburgh Steelers,2014,1900,6
-Minnesota Vikings,2014,1600,11
-Baltimore Ravens,2014,1900,7
-Los Angeles Chargers,2014,1500,11
-Cleveland Browns,2014,1500,9
-Indianapolis Colts,2014,1900,7
-Kansas City Chiefs,2014,1500,13
-Tampa Bay Buccaneers,2014,1500,9
-Carolina Panthers,2014,1600,2
-New Orleans Saints,2014,1500,8
-Tennessee Titans,2014,1500,7
-Jacksonville Jaguars,2014,1500,2
-Buffalo Bills,2014,1400,3
-Arizona Cardinals,2014,1500,9
-Detroit Lions,2014,1400,11
-Cincinnati Bengals,2014,1400,10
-Dallas Cowboys,2013,3200,8
-New England Patriots,2013,2600,7
-Los Angeles Rams,2013,930,13
-New York Giants,2013,2100,7
-Chicago Bears,2013,1700,7
-Washington Commanders,2013,2400,8
-New York Jets,2013,1800,3
-San Francisco 49ers,2013,1600,8
-Las Vegas Raiders,2013,970,14
-Philadelphia Eagles,2013,1800,4
-Houston Texans,2013,1900,10
-Denver Broncos,2013,1500,2
-Miami Dolphins,2013,1300,15
-Seattle Seahawks,2013,1300,8
-Green Bay Packers,2013,1400,16
-Atlanta Falcons,2013,1100,8
-Pittsburgh Steelers,2013,1400,4
-Minnesota Vikings,2013,1200,8
-Baltimore Ravens,2013,1500,5
-Los Angeles Chargers,2013,995,8
-Cleveland Browns,2013,1100,10
-Indianapolis Colts,2013,1400,4
-Kansas City Chiefs,2013,1100,12
-Tampa Bay Buccaneers,2013,1200,11
-Carolina Panthers,2013,1300,4
-New Orleans Saints,2013,1100,12
-Tennessee Titans,2013,1200,12
-Jacksonville Jaguars,2013,965,7
-Buffalo Bills,2013,935,4
-Arizona Cardinals,2013,1000,6
-Detroit Lions,2013,960,10
-Cincinnati Bengals,2013,990,11
-Dallas Cowboys,2012,2300,8
-New England Patriots,2012,1800,4
-Los Angeles Rams,2012,875,13
-New York Giants,2012,1600,7
-Chicago Bears,2012,1300,9
-Washington Commanders,2012,1700,10
-New York Jets,2012,1400,10
-San Francisco 49ers,2012,1200,6
-Las Vegas Raiders,2012,825,13
-Philadelphia Eagles,2012,1300,4
-Houston Texans,2012,1500,4
-Denver Broncos,2012,1200,13
-Miami Dolphins,2012,1100,13
-Seattle Seahawks,2012,1100,7
-Green Bay Packers,2012,1200,12
-Atlanta Falcons,2012,933,12
-Pittsburgh Steelers,2012,1100,14
-Minnesota Vikings,2012,1000,8
-Baltimore Ravens,2012,1200,10
-Los Angeles Chargers,2012,949,14
-Cleveland Browns,2012,1000,7
-Indianapolis Colts,2012,1200,5
-Kansas City Chiefs,2012,1000,11
-Tampa Bay Buccaneers,2012,1100,2
-Carolina Panthers,2012,1100,7
-New Orleans Saints,2012,1000,7
-Tennessee Titans,2012,1100,7
-Jacksonville Jaguars,2012,840,6
-Buffalo Bills,2012,870,2
-Arizona Cardinals,2012,961,6
-Detroit Lions,2012,900,5
-Cincinnati Bengals,2012,924,10
+Teams,Year,Value,Wins,Division
+Dallas Cowboys,2021,8000,12,NFC East
+New England Patriots,2021,6400,3,AFC East
+Los Angeles Rams,2021,6200,10,NFC West
+New York Giants,2021,6000,16,NFC East
+Chicago Bears,2021,5800,4,NFC North
+Washington Commanders,2021,5600,6,NFC East
+New York Jets,2021,5400,7,AFC East
+San Francisco 49ers,2021,5200,4,NFC West
+Las Vegas Raiders,2021,5100,12,AFC West
+Philadelphia Eagles,2021,4900,10,NFC East
+Houston Texans,2021,4700,9,AFC South
+Denver Broncos,2021,4650,4,AFC West
+Miami Dolphins,2021,4600,7,AFC East
+Seattle Seahawks,2021,4500,9,NFC West
+Green Bay Packers,2021,4250,7,NFC North
+Atlanta Falcons,2021,4000,13,NFC South
+Pittsburgh Steelers,2021,3975,7,AFC North
+Minnesota Vikings,2021,3925,9,NFC North
+Baltimore Ravens,2021,3900,8,AFC North
+Los Angeles Chargers,2021,3875,8,AFC West
+Cleveland Browns,2021,3850,9,AFC North
+Indianapolis Colts,2021,3800,8,AFC South
+Kansas City Chiefs,2021,3700,9,AFC West
+Tampa Bay Buccaneers,2021,3675,14,NFC South
+Carolina Panthers,2021,3600,14,NFC South
+New Orleans Saints,2021,3575,5,NFC South
+Tennessee Titans,2021,3500,9,AFC South
+Jacksonville Jaguars,2021,3475,12,AFC South
+Buffalo Bills,2021,3400,3,AFC East
+Arizona Cardinals,2021,3270,12,NFC West
+Detroit Lions,2021,3050,11,NFC North
+Cincinnati Bengals,2021,3000,13,AFC North
+Dallas Cowboys,2020,6500,6,NFC East
+New England Patriots,2020,5000,5,AFC East
+Los Angeles Rams,2020,4800,7,NFC West
+New York Giants,2020,4850,11,NFC East
+Chicago Bears,2020,4075,6,NFC North
+Washington Commanders,2020,4200,8,NFC East
+New York Jets,2020,4050,7,AFC East
+San Francisco 49ers,2020,4175,2,NFC West
+Las Vegas Raiders,2020,3415,6,AFC West
+Philadelphia Eagles,2020,3800,8,NFC East
+Houston Texans,2020,3700,4,AFC South
+Denver Broncos,2020,3750,4,AFC West
+Miami Dolphins,2020,3420,5,AFC East
+Seattle Seahawks,2020,3500,10,NFC West
+Green Bay Packers,2020,3475,12,NFC North
+Atlanta Falcons,2020,3200,14,NFC South
+Pittsburgh Steelers,2020,3430,4,AFC North
+Minnesota Vikings,2020,3350,12,NFC North
+Baltimore Ravens,2020,3400,7,AFC North
+Los Angeles Chargers,2020,2920,12,AFC West
+Cleveland Browns,2020,2600,7,AFC North
+Indianapolis Colts,2020,3250,12,AFC South
+Kansas City Chiefs,2020,2930,11,AFC West
+Tampa Bay Buccaneers,2020,2940,16,NFC South
+Carolina Panthers,2020,2910,15,NFC South
+New Orleans Saints,2020,2825,5,NFC South
+Tennessee Titans,2020,2625,13,AFC South
+Jacksonville Jaguars,2020,2800,11,AFC South
+Buffalo Bills,2020,2270,1,AFC East
+Arizona Cardinals,2020,2650,15,NFC West
+Detroit Lions,2020,2400,8,NFC North
+Cincinnati Bengals,2020,2275,4,AFC North
+Dallas Cowboys,2019,5700,8,NFC East
+New England Patriots,2019,4400,3,AFC East
+Los Angeles Rams,2019,4000,12,NFC West
+New York Giants,2019,4300,9,NFC East
+Chicago Bears,2019,3500,4,NFC North
+Washington Commanders,2019,3500,8,NFC East
+New York Jets,2019,3600,3,AFC East
+San Francisco 49ers,2019,3800,7,NFC West
+Las Vegas Raiders,2019,3100,15,AFC West
+Philadelphia Eagles,2019,3400,7,NFC East
+Houston Texans,2019,3300,9,AFC South
+Denver Broncos,2019,3200,11,AFC West
+Miami Dolphins,2019,2900,7,AFC East
+Seattle Seahawks,2019,3100,5,NFC West
+Green Bay Packers,2019,3100,12,NFC North
+Atlanta Falcons,2019,2900,14,NFC South
+Pittsburgh Steelers,2019,3000,7,AFC North
+Minnesota Vikings,2019,3000,8,NFC North
+Baltimore Ravens,2019,3000,11,AFC North
+Los Angeles Chargers,2019,2600,14,AFC West
+Cleveland Browns,2019,2400,5,AFC North
+Indianapolis Colts,2019,2900,6,AFC South
+Kansas City Chiefs,2019,2500,7,AFC West
+Tampa Bay Buccaneers,2019,2300,15,NFC South
+Carolina Panthers,2019,2600,7,NFC South
+New Orleans Saints,2019,2500,5,NFC South
+Tennessee Titans,2019,2300,13,AFC South
+Jacksonville Jaguars,2019,2500,11,AFC South
+Buffalo Bills,2019,2100,6,AFC East
+Arizona Cardinals,2019,2300,10,NFC West
+Detroit Lions,2019,2100,5,NFC North
+Cincinnati Bengals,2019,2000,2,AFC North
+Dallas Cowboys,2018,5500,11,NFC East
+New England Patriots,2018,4100,6,AFC East
+Los Angeles Rams,2018,3800,14,NFC West
+New York Giants,2018,3900,15,NFC East
+Chicago Bears,2018,3500,5,NFC North
+Washington Commanders,2018,3400,12,NFC East
+New York Jets,2018,3200,7,AFC East
+San Francisco 49ers,2018,3500,4,NFC West
+Las Vegas Raiders,2018,2900,4,AFC West
+Philadelphia Eagles,2018,3100,4,NFC East
+Houston Texans,2018,3100,10,AFC South
+Denver Broncos,2018,3000,11,AFC West
+Miami Dolphins,2018,2800,6,AFC East
+Seattle Seahawks,2018,2800,7,NFC West
+Green Bay Packers,2018,2900,10,NFC North
+Atlanta Falcons,2018,2800,6,NFC South
+Pittsburgh Steelers,2018,2800,7,AFC North
+Minnesota Vikings,2018,2700,9,NFC North
+Baltimore Ravens,2018,2800,8,AFC North
+Los Angeles Chargers,2018,2500,10,AFC West
+Cleveland Browns,2018,2200,13,AFC North
+Indianapolis Colts,2018,2700,7,AFC South
+Kansas City Chiefs,2018,2300,11,AFC West
+Tampa Bay Buccaneers,2018,2200,13,NFC South
+Carolina Panthers,2018,2400,5,NFC South
+New Orleans Saints,2018,2300,7,NFC South
+Tennessee Titans,2018,2200,14,AFC South
+Jacksonville Jaguars,2018,2300,9,AFC South
+Buffalo Bills,2018,1900,5,AFC East
+Arizona Cardinals,2018,2300,6,NFC West
+Detroit Lions,2018,2000,3,NFC North
+Cincinnati Bengals,2018,2000,6,AFC North
+Dallas Cowboys,2017,5000,9,NFC East
+New England Patriots,2017,3800,9,AFC East
+Los Angeles Rams,2017,3200,15,NFC West
+New York Giants,2017,3300,11,NFC East
+Chicago Bears,2017,2900,3,NFC North
+Washington Commanders,2017,3100,5,NFC East
+New York Jets,2017,2900,7,AFC East
+San Francisco 49ers,2017,3100,5,NFC West
+Las Vegas Raiders,2017,2400,6,AFC West
+Philadelphia Eagles,2017,2800,6,NFC East
+Houston Texans,2017,2800,16,AFC South
+Denver Broncos,2017,2700,4,AFC West
+Miami Dolphins,2017,2600,5,AFC East
+Seattle Seahawks,2017,2600,6,NFC West
+Green Bay Packers,2017,2600,9,NFC North
+Atlanta Falcons,2017,2600,7,NFC South
+Pittsburgh Steelers,2017,2600,11,AFC North
+Minnesota Vikings,2017,2400,13,NFC North
+Baltimore Ravens,2017,2600,14,AFC North
+Los Angeles Chargers,2017,2300,9,AFC West
+Cleveland Browns,2017,2000,9,AFC North
+Indianapolis Colts,2017,2400,0,AFC South
+Kansas City Chiefs,2017,2100,4,AFC West
+Tampa Bay Buccaneers,2017,2000,10,NFC South
+Carolina Panthers,2017,2300,5,NFC South
+New Orleans Saints,2017,2100,11,NFC South
+Tennessee Titans,2017,2100,12,AFC South
+Jacksonville Jaguars,2017,2100,10,AFC South
+Buffalo Bills,2017,1600,12,AFC East
+Arizona Cardinals,2017,2200,9,NFC West
+Detroit Lions,2017,1700,8,NFC North
+Cincinnati Bengals,2017,1800,7,AFC North
+Dallas Cowboys,2016,4800,13,NFC East
+New England Patriots,2016,3700,9,AFC East
+Los Angeles Rams,2016,3000,17,NFC West
+New York Giants,2016,3300,4,NFC East
+Chicago Bears,2016,2900,11,NFC North
+Washington Commanders,2016,3100,3,NFC East
+New York Jets,2016,2800,8,AFC East
+San Francisco 49ers,2016,3100,5,NFC West
+Las Vegas Raiders,2016,2400,2,AFC West
+Philadelphia Eagles,2016,2700,12,NFC East
+Houston Texans,2016,2800,7,AFC South
+Denver Broncos,2016,2600,10,AFC West
+Miami Dolphins,2016,2600,9,AFC East
+Seattle Seahawks,2016,2400,10,NFC West
+Green Bay Packers,2016,2600,11,NFC North
+Atlanta Falcons,2016,2500,12,NFC South
+Pittsburgh Steelers,2016,2500,13,AFC North
+Minnesota Vikings,2016,2400,13,NFC North
+Baltimore Ravens,2016,2500,8,AFC North
+Los Angeles Chargers,2016,2300,8,AFC West
+Cleveland Browns,2016,2000,5,AFC North
+Indianapolis Colts,2016,2400,1,AFC South
+Kansas City Chiefs,2016,2100,8,AFC West
+Tampa Bay Buccaneers,2016,2000,12,NFC South
+Carolina Panthers,2016,2300,9,NFC South
+New Orleans Saints,2016,2000,6,NFC South
+Tennessee Titans,2016,2100,7,AFC South
+Jacksonville Jaguars,2016,2100,9,AFC South
+Buffalo Bills,2016,1600,3,AFC East
+Arizona Cardinals,2016,2200,7,NFC West
+Detroit Lions,2016,1700,7,NFC North
+Cincinnati Bengals,2016,1800,6,AFC North
+Dallas Cowboys,2015,4200,4,NFC East
+New England Patriots,2015,3400,7,AFC East
+Los Angeles Rams,2015,2900,13,NFC West
+New York Giants,2015,3100,7,NFC East
+Chicago Bears,2015,2700,6,NFC North
+Washington Commanders,2015,3000,6,NFC East
+New York Jets,2015,2800,9,AFC East
+San Francisco 49ers,2015,3000,10,NFC West
+Las Vegas Raiders,2015,2100,5,AFC West
+Philadelphia Eagles,2015,2500,7,NFC East
+Houston Texans,2015,2600,7,AFC South
+Denver Broncos,2015,2400,9,AFC West
+Miami Dolphins,2015,2400,15,AFC East
+Seattle Seahawks,2015,2200,6,NFC West
+Green Bay Packers,2015,2400,11,NFC North
+Atlanta Falcons,2015,2100,11,NFC South
+Pittsburgh Steelers,2015,2300,8,AFC North
+Minnesota Vikings,2015,2200,11,NFC North
+Baltimore Ravens,2015,2300,11,AFC North
+Los Angeles Chargers,2015,2100,5,AFC West
+Cleveland Browns,2015,1900,4,AFC North
+Indianapolis Colts,2015,2200,3,AFC South
+Kansas City Chiefs,2015,1900,8,AFC West
+Tampa Bay Buccaneers,2015,1800,12,NFC South
+Carolina Panthers,2015,2100,6,NFC South
+New Orleans Saints,2015,1800,17,NFC South
+Tennessee Titans,2015,2000,7,AFC South
+Jacksonville Jaguars,2015,2000,3,AFC South
+Buffalo Bills,2015,1500,5,AFC East
+Arizona Cardinals,2015,2000,8,NFC West
+Detroit Lions,2015,1700,14,NFC North
+Cincinnati Bengals,2015,1700,12,AFC North
+Dallas Cowboys,2014,4000,13,NFC East
+New England Patriots,2014,3200,11,AFC East
+Los Angeles Rams,2014,1500,15,NFC West
+New York Giants,2014,2800,6,NFC East
+Chicago Bears,2014,2500,6,NFC North
+Washington Commanders,2014,2900,5,NFC East
+New York Jets,2014,2600,4,AFC East
+San Francisco 49ers,2014,2700,4,NFC West
+Las Vegas Raiders,2014,1400,8,AFC West
+Philadelphia Eagles,2014,2400,3,NFC East
+Houston Texans,2014,2500,10,AFC South
+Denver Broncos,2014,1900,9,AFC West
+Miami Dolphins,2014,1900,12,AFC East
+Seattle Seahawks,2014,1900,8,NFC West
+Green Bay Packers,2014,2000,14,NFC North
+Atlanta Falcons,2014,1700,13,NFC South
+Pittsburgh Steelers,2014,1900,6,AFC North
+Minnesota Vikings,2014,1600,11,NFC North
+Baltimore Ravens,2014,1900,7,AFC North
+Los Angeles Chargers,2014,1500,11,AFC West
+Cleveland Browns,2014,1500,9,AFC North
+Indianapolis Colts,2014,1900,7,AFC South
+Kansas City Chiefs,2014,1500,13,AFC West
+Tampa Bay Buccaneers,2014,1500,9,NFC South
+Carolina Panthers,2014,1600,2,NFC South
+New Orleans Saints,2014,1500,8,NFC South
+Tennessee Titans,2014,1500,7,AFC South
+Jacksonville Jaguars,2014,1500,2,AFC South
+Buffalo Bills,2014,1400,3,AFC East
+Arizona Cardinals,2014,1500,9,NFC West
+Detroit Lions,2014,1400,11,NFC North
+Cincinnati Bengals,2014,1400,10,AFC North
+Dallas Cowboys,2013,3200,8,NFC East
+New England Patriots,2013,2600,7,AFC East
+Los Angeles Rams,2013,930,13,NFC West
+New York Giants,2013,2100,7,NFC East
+Chicago Bears,2013,1700,7,NFC North
+Washington Commanders,2013,2400,8,NFC East
+New York Jets,2013,1800,3,AFC East
+San Francisco 49ers,2013,1600,8,NFC West
+Las Vegas Raiders,2013,970,14,AFC West
+Philadelphia Eagles,2013,1800,4,NFC East
+Houston Texans,2013,1900,10,AFC South
+Denver Broncos,2013,1500,2,AFC West
+Miami Dolphins,2013,1300,15,AFC East
+Seattle Seahawks,2013,1300,8,NFC West
+Green Bay Packers,2013,1400,16,NFC North
+Atlanta Falcons,2013,1100,8,NFC South
+Pittsburgh Steelers,2013,1400,4,AFC North
+Minnesota Vikings,2013,1200,8,NFC North
+Baltimore Ravens,2013,1500,5,AFC North
+Los Angeles Chargers,2013,995,8,AFC West
+Cleveland Browns,2013,1100,10,AFC North
+Indianapolis Colts,2013,1400,4,AFC South
+Kansas City Chiefs,2013,1100,12,AFC West
+Tampa Bay Buccaneers,2013,1200,11,NFC South
+Carolina Panthers,2013,1300,4,NFC South
+New Orleans Saints,2013,1100,12,NFC South
+Tennessee Titans,2013,1200,12,AFC South
+Jacksonville Jaguars,2013,965,7,AFC South
+Buffalo Bills,2013,935,4,AFC East
+Arizona Cardinals,2013,1000,6,NFC West
+Detroit Lions,2013,960,10,NFC North
+Cincinnati Bengals,2013,990,11,AFC North
+Dallas Cowboys,2012,2300,8,NFC East
+New England Patriots,2012,1800,4,AFC East
+Los Angeles Rams,2012,875,13,NFC West
+New York Giants,2012,1600,7,NFC East
+Chicago Bears,2012,1300,9,NFC North
+Washington Commanders,2012,1700,10,NFC East
+New York Jets,2012,1400,10,AFC East
+San Francisco 49ers,2012,1200,6,NFC West
+Las Vegas Raiders,2012,825,13,AFC West
+Philadelphia Eagles,2012,1300,4,NFC East
+Houston Texans,2012,1500,4,AFC South
+Denver Broncos,2012,1200,13,AFC West
+Miami Dolphins,2012,1100,13,AFC East
+Seattle Seahawks,2012,1100,7,NFC West
+Green Bay Packers,2012,1200,12,NFC North
+Atlanta Falcons,2012,933,12,NFC South
+Pittsburgh Steelers,2012,1100,14,AFC North
+Minnesota Vikings,2012,1000,8,NFC North
+Baltimore Ravens,2012,1200,10,AFC North
+Los Angeles Chargers,2012,949,14,AFC West
+Cleveland Browns,2012,1000,7,AFC North
+Indianapolis Colts,2012,1200,5,AFC South
+Kansas City Chiefs,2012,1000,11,AFC West
+Tampa Bay Buccaneers,2012,1100,2,NFC South
+Carolina Panthers,2012,1100,7,NFC South
+New Orleans Saints,2012,1000,7,NFC South
+Tennessee Titans,2012,1100,7,AFC South
+Jacksonville Jaguars,2012,840,6,AFC South
+Buffalo Bills,2012,870,2,AFC East
+Arizona Cardinals,2012,961,6,NFC West
+Detroit Lions,2012,900,5,NFC North
+Cincinnati Bengals,2012,924,10,AFC North
